@@ -1,4 +1,4 @@
-module github.com/containers/ocicrypt
+module github.com/u-root/ocicrypt
 
 go 1.25.0
 
